@@ -1,0 +1,582 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+
+}
+
+header{
+    background-color: #05033B; 
+}
+header h1 {
+    text-transform: uppercase;
+    font-size: 50px;
+    color: #FF0360;
+    position: relative;
+    top: 15px;
+    left: 25%;
+    margin: 0px;
+    width:700px;
+}
+/*.header .img-young img{
+    height: 40vh;
+    position: relative;
+    left: 55%;
+   
+}*/
+header img:first-child{
+    height: 300px;
+    position:absolute;
+    top: 250px;
+    left: 750px;
+}
+
+header h2 {
+    color: #F21905;
+    margin-top: 10%      
+}
+header .header-p1 {
+    position: relative;
+    left: 10%    
+}
+header .header-p1 p{
+    font-size: 50px;
+    width: 450px;
+    color: white;
+    font-weight: 900;
+}
+
+header .text-sell1 p {
+    width: 500px;
+    font-weight: 400;
+    color: white;
+    position: relative;
+    left: 10%;
+    margin-top: 20px;
+    font-size: 20px;
+}
+header .text-sell1 p:nth-child(2){
+    font-size: 25px;
+} 
+header .text-sell1 .copy-header p{
+    font-size: 24px;
+    margin-left: -10px
+}
+header .text-sell1 p u{
+    color: #F21905;
+}
+ 
+header .text-sell1 .copy-header {
+   position: relative;
+    left:5%
+}
+header .text-sell1 .copy-header p{
+    margin-top: -15px;
+}
+header .text-sell1 .copy-header .img1{
+    height:  40px;
+    position: relative;
+    top:25px;
+    left:5%;
+}
+header .text-sell1 .copy-header .img2{
+    height:  40px;
+    position: relative;
+    top:30px;
+    left:5%;
+}
+header .text-sell1 .copy-header .img3{
+    height:  40px;
+    position: relative;
+    top: 25px;
+    left:5%;
+}
+
+main{
+    background-color: #05033B; 
+}
+
+.page-one{
+   background-color: #05033B; 
+    margin-top: -20px    
+}
+.pag-one .line{
+    width: 300px;
+    height 20px;
+    color: purple;
+}
+.page-one .title-pg1 h1{
+    width:850px;
+    font-size: 40px;
+    text-align: center;
+    position: relative;
+    top: 35px;
+    left: 19%;
+    color: #FF0360;
+}
+.page-one .title-pg1 p{
+    width:560px;
+    font-size: 20px;
+    font-weight: 300;
+    color:white;
+    position: relative;
+    left:29%;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.page-one .title-pg2 h2{
+    width: 300px;
+    font-size: 250px;
+    position: relative;
+    left: 10%;
+    margin-top: 100px;
+    color:#FF0360;
+}
+.page-one .title-pg2 h3{
+    width: 600px;
+    font-size: 33px;
+    position: relative;
+    left: 50%;
+    margin: -230px;
+    color: white;
+}
+.page-one .title-pg2 h3 b{
+    color: #FF0360;
+}
+.page-one .title-pg2 h3 p{
+    font-size: 20px;
+    font-weight: 300;
+    margin-top:25px; 
+}
+
+.page-one .title-pg3{
+    position: relative;
+    left: 15%;
+    margin-top: 300px;
+    width: 900px;
+}
+.page-one .title-pg3 h2{
+    width: 300px;
+    font-size: 250px;
+    margin-top: 100px;
+    position: relative;
+    left:-10%;
+    color:#FF0360;
+}
+.page-one .title-pg3 h3{
+    width: 600px;
+    font-size: 33px;
+    position: relative;
+    left: 50%;
+    margin: -230px;
+    color: white;
+}
+.page-one .title-pg3 h3 b{
+    color: #FF0360;
+}
+.page-one .title-pg3 h3 p{
+    font-size: 20px;
+    font-weight: 300;
+    margin-top:25px; 
+}
+
+.page-one .title-pg4{
+    position: relative;
+    left: 15%;
+    margin-top: 300px;
+    width: 900px;
+}
+.page-one .title-pg4 h2{
+    width: 300px;
+    font-size: 250px;
+    margin-top: 100px;
+    position: relative;
+    left: -10%;
+    color:#FF0360;
+}
+.page-one .title-pg4 h3{
+    width: 600px;
+    font-size: 33px;
+    position: relative;
+    left: 50%;
+    margin: -230px;
+    color: white;
+}
+.page-one .title-pg4 h3 b{
+    color: #FF0360;
+}
+.page-one .title-pg4 h3 p{
+    font-size: 20px;
+    font-weight: 300;
+    margin-top:25px;
+    margin-bottom: 630px
+}
+    
+
+.pag-two{
+    background-color: black;
+    position: relative;
+    top: 230px;
+    height: 300px;    
+}
+.pag-two h1{
+    color: white;
+    width: 480px;
+    position: relative;
+    left: 31%;
+   top: -510px
+}
+.pag-two .square{
+    background-color: white;
+    width: 100px;
+    height: 100px;
+    padding: 250px 160px;
+    position: relative;
+    top: -470px;
+    left:32%;
+} 
+.pag-two .square p:first-child{
+    width: 300px;
+    position: relative;
+    left:-90%;
+    bottom: 200px;
+    font-weight: 900;
+    font-size: 48px;
+    text-decoration-line: line-through;
+    text-decoration-color: #FF0360;
+}
+.pag-two .square p:nth-child(2){
+    width: 250px;
+    position: relative;
+    bottom:190px;
+    left: 25%;
+    font-weight: 300;
+    font-size: 20px;
+    
+}
+.pag-two .square p:nth-child(3){
+    width: 350px;
+    position: relative;
+    left:-75%;
+    bottom: 180px;
+    font-weight: 900;
+    font-size: 55px;
+    color: #FF0360;
+}
+.pag-two .square p:nth-child(4){
+    width: 300px;
+    font-size: 20px;
+    position: relative;
+    right: 70px;
+    bottom:130px;
+}
+.pag-two .square p:nth-child(5){
+    width: 300px;
+    font-size: 20px;
+    position: relative;
+    right: 70px;
+    bottom:110px;
+    text-align:left;
+}
+.pag-two .square p:nth-child(6){
+    width: 300px;
+    font-size: 20px;
+    position: relative;
+    right: 70px;
+    bottom:90px;
+    text-align:left;
+}
+.pag-two .square p img{
+    height: 5vh;
+}
+.pag-two .square button{
+    width:300px;
+    font-weight: 700;
+    background-color: #FF0360;
+    padding: 15px 50px;
+    text-decoration: none;
+    font-size:15px;
+    margin: 4px 2px;
+    border-radius: 7px;
+    border: none;
+    box-shadow: 1px 1px 15px #FF0360;
+    color: white
+}
+.pag-two h2{
+    width: 500px;
+    font-size: 30px;
+    position: relative;
+    left: 450px;
+    bottom:430px;
+    text-align:left;
+    color: white;
+}
+.pag-three{
+    background-color: #F21905;
+    height: 350px;
+}
+.pag-three h1  {
+    width:400px;
+    height: 100px;
+    color: white;
+    position: relative;
+    left: 34%;
+    top: 240px;
+    font-size:80px
+}
+.pag-three img{
+    height: 130px;
+    position: relative;
+    top: 125px;
+    left: 22%
+}
+.pag-three p:first-child{
+   margin-left: 50px;
+}
+footer{
+    width 100px;
+    height: 35px;
+ background-color: #05033B
+    
+}
+footer p{
+color: white;
+position: relative;
+left: 40%;
+margin-top:15px ;
+}
+
+footer p a{
+    text-decoration: none;
+ color: white
+    
+}
+
+@media (max-width: 1024px) {
+    body{
+         background-color: #05033B; 
+    }
+    header h1{
+        width: 700px;
+        font-size: 150px;
+        margin-top: 30px;
+        position: relative;
+        left:10%;
+    }
+    header img:first-child{
+        height: 700px;
+        position:relative;
+        top: 90px;
+        left:10%;
+        left: 190px;
+    }
+    header .header-p1{
+        position: relative;
+        top:200px;
+    }
+    header h2{
+        width: 300px;
+        font-size: 120px; 
+    }
+    header .header-p1 p{
+        font-size: 150px;
+        width: 800px; 
+    }
+    header .text-sell1 p{
+        font-size: 50px;
+        width: 800px;
+        position:relative;
+        top: 290px;
+    }
+    header .text-sell1 p:nth-child(2){
+    font-size: 40px;
+    }
+    header .text-sell1 .copy-header{
+        font-size: 30px;
+    }
+    header .text-sell1 .copy-header .img1{
+        height: 70px;
+        position: relative;
+        top:370px;
+        left: -10px;
+    }
+    header .text-sell1 .copy-header .img2{
+        height: 70px;
+        position: relative;
+        top:370px;
+        left: -10px;
+    }
+    header .text-sell1 .copy-header .img3{
+        height: 70px;
+        position: relative;
+        top:370px;
+        left: -10px;
+    }
+    .page-one .title-pg1 h1{
+        width: 770px;
+        font-size: 100px;
+        position: relative;
+        top:370px;
+        left:10%;
+        text-align: left;
+    }
+    .page-one .title-pg1 p{
+         width: 770px;
+        font-size: 60px;
+        position: relative;
+        top:370px;
+        left:10%;
+        text-align: left;
+    }
+    
+    .page-one .title-pg2 h2{
+        font-size: 700px;
+        position: relative; 
+        top: 200px;
+    }
+    .page-one .title-pg2 h3{
+        font-size: 80px;
+        width: 870px;
+        position: relative;
+        left:320px;
+        top:370px;
+    }
+    .page-one .title-pg2 h3 p{
+        font-size: 50px;
+    }
+    
+    .page-one .title-pg3 h2{
+        font-size: 700px;
+        position: relative; 
+        top: 200px;
+    }
+    .page-one .title-pg3 h3{
+        font-size: 80px;
+        width: 870px;
+        position: relative;
+        left:170px;
+        top:370px;
+    }
+    .page-one .title-pg3 h3 p{
+        font-size: 50px;
+    }
+    
+    .page-one .title-pg4 h2{
+        font-size: 700px;
+        position: relative; 
+        top: 200px;
+    }
+    .page-one .title-pg4 h3{
+        font-size: 80px;
+        width: 870px;
+        position: relative;
+        left:170px;
+        top:370px;
+    }
+    .page-one .title-pg4 h3 p{
+        font-size: 50px;
+    }
+ 
+    .pag-two {
+        width: 1100px;
+        height: 2000px; 
+    }  
+    .pag-two h1{
+        position: relative;
+        left: 14%;
+        top: 50px;
+        font-size: 70px;
+        width: 900px;
+    }
+    .pag-two .square{
+        width: 650px;
+        height: 800px;
+        position: relative;
+        left:70px;
+        top:90px;
+    }
+    .pag-two .square p:first-child{
+        width: 600px;
+        position: relative;
+        left:5%;
+        bottom: 200px;
+        font-size: 90px;
+    }   
+    .pag-two .square p:nth-child(2){
+        width: 500px;
+        position: relative;
+        left:37%;
+        bottom: 200px;
+        font-size: 50px;
+    }
+    .pag-two .square p:nth-child(3){
+        width: 600px;
+        position: relative;
+        left:14%;
+        bottom: 200px;
+        font-size: 100px;
+    }
+    .pag-two .square p:nth-child(4){
+        font-size: 70px;
+        width: 600px;
+        text-align: left;
+        position: relative;
+        left:5%;
+        bottom:170px;
+    }
+    .pag-two .square p:nth-child(5){
+        font-size: 70px;
+        width: 600px;
+        text-align: left;
+        position: relative;
+        left:5%;
+        bottom:130px;    
+    }
+    .pag-two .square p:nth-child(6){
+        font-size: 70px;
+        width: 600px;
+        text-align: left;
+        position: relative;
+        left:5%;
+        bottom:110px;
+            
+    }
+    .pag-two .square p img{
+        height: 2vh;
+    }
+    .pag-two .square button{
+        width:520px;
+        height:80px;   
+        font-size:30px;
+        position: relative;
+        left:5%;
+        bottom:70px;
+    }
+    .pag-two h2{
+    position: relative;
+    left: 160px;
+    top:230px;
+    font-size: 60px;
+    width: 800px;    
+    }
+    .pag-three{
+        width: 1100px
+    }
+    .pag-three img{
+        height: 100px;
+        position: relative;
+        top: 135px;
+        left: 22%
+    }
+    footer{
+        width 100px;
+        height: 75px;
+    }
+    footer p{
+        width:845px ;
+        font-size:45px ;
+        position: relative;
+        left: 10%;
+    }
+}
