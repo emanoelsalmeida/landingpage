@@ -494,7 +494,8 @@ footer p a{
         width: 550px;
         height: 800px;
         position: relative;
-        left:100px;
+        left:50px;
+        top:90px;
     }
     .pag-two .square p:first-child{
         width: 600px;
@@ -536,8 +537,8 @@ footer p a{
         height: 2vh;
     }
     .pag-two .square button{
-         width:720px;
-        height:70px;   
+         width:520px;
+        height:80px;   
         font-size:30px;
     }
 }
