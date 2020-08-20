@@ -293,9 +293,6 @@ main{
 .pag-two .square button{
     width:300px;
     font-weight: 700;
-    position: relative;
-    left:-100px;
-    bottom:50px ;
     background-color: #FF0360;
     padding: 15px 50px;
     text-decoration: none;
@@ -304,7 +301,7 @@ main{
     border-radius: 7px;
     border: none;
     box-shadow: 1px 1px 15px #FF0360;
-  
+    color: white
 }
 .pag-two h2{
     width: 500px;
@@ -347,7 +344,7 @@ footer p{
 color: white;
 position: relative;
 left: 40%;
-       margin-top:15px ;
+margin-top:15px ;
 }
 
 footer p a{
@@ -486,9 +483,10 @@ footer p a{
     }  
     .pag-two h1{
         position: relative;
-        left: 31%;
-        top: -110px;
-        font-size: 50px;
+        left: 10%;
+        top: 50px;
+        font-size: 70px;
+        width: 700px;
     }
     .pag-two .square{
         width: 550px;
@@ -521,24 +519,60 @@ footer p a{
     .pag-two .square p:nth-child(4){
         font-size: 70px;
         width: 600px;
-        text-align: left
+        text-align: left;
+        position: relative;
+        left:5%;
+        bottom:170px;
     }
     .pag-two .square p:nth-child(5){
         font-size: 70px;
         width: 600px;
-        text-align: left
+        text-align: left;
+        position: relative;
+        left:5%;
+        bottom:130px;    
     }
     .pag-two .square p:nth-child(6){
         font-size: 70px;
         width: 600px;
-        text-align: left
+        text-align: left;
+        position: relative;
+        left:5%;
+        bottom:110px;
+            
     }
     .pag-two .square p img{
         height: 2vh;
     }
     .pag-two .square button{
-         width:520px;
+        width:520px;
         height:80px;   
         font-size:30px;
+        position: relative;
+        left:5%;
+        bottom:70px;
+    }
+    .pag-two h2{
+    position: relative;
+    left: 60px;
+    top:130px;
+    font-size: 60px;
+    width: 900px;    
+    }
+    .pag-three img{
+        height: 100px;
+        position: relative;
+        top: 135px;
+        left: 22%
+    }
+    footer{
+        width 100px;
+        height: 75px;
+    }
+    footer p{
+        width:845px ;
+        font-size:45px ;
+        position: relative;
+        left: 10%;
     }
 }
