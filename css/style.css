@@ -479,7 +479,8 @@ footer p a{
     }
  
     .pag-two {
-        height: 1900px; 
+        width: 1100px;
+        height: 2100px; 
     }  
     .pag-two h1{
         position: relative;
@@ -489,10 +490,10 @@ footer p a{
         width: 700px;
     }
     .pag-two .square{
-        width: 550px;
+        width: 650px;
         height: 800px;
         position: relative;
-        left:50px;
+        left:70px;
         top:90px;
     }
     .pag-two .square p:first-child{
